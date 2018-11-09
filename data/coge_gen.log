@@ -1,0 +1,24 @@
+Line 3 : Section event
+Line 5 : WSAStartup event
+Line 9 : socket 3412:488 : Socket event
+Line 13 : socket 3412:488 : Closesocket event
+Line 15 : socket 3412:528 : Socket event
+Line 17 : socket 3412:528 : Connect event
+Line 23 : Comment event
+Add code : LrsCreateSocket
+Line 25 : Think time event
+Line 27 : socket 3412:528 : Send event
+Line 40 : Comment event
+Add code : LrsSend
+Line 42 : Think time event
+Line 44 : socket 3412:528 : Send event
+Line 57 : Comment event
+Add code : LrsSend
+Line 59 : Think time event
+Line 61 : socket 3412:528 : Send event
+Line 74 : Comment event
+Add code : LrsSend
+Line 76 : Think time event
+Line 78 : socket 3412:528 : Send event
+Line 78 : Last event
+Add code : LrsSend

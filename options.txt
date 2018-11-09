@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Documents and Settings\yavuz\Desktop\IR_deneme2
+-IC:\Program Files\HP\Virtual User Generator\include
+-ec:\documents and settings\yavuz\desktop\ir_deneme2\\logfile.log
+c:\documents and settings\yavuz\desktop\ir_deneme2\\combined_IR_deneme2.c
+c:\documents and settings\yavuz\desktop\ir_deneme2\\pre_cci.c
